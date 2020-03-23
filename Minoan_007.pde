@@ -1,7 +1,7 @@
-// Draw a classical Monian labyrinth
+// Draw a classical Minoan labyrinth
 // by Rupert Russell rupert@rupert.id.au
-// Code on Github at: https://github.com/rupertrussell/monian-labyrinth
-// Artwork on redbubble at: 
+// Code on Github at: https://github.com/rupertrussell/minoan-labyrinth
+// Artwork on redbubble at: https://www.redbubble.com/shop/ap/46068650
 // Artwork size 7632 x 7632
 // 18 March 2020
 // Thanks to:
